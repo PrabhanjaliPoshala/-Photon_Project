@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Photon – Live Stock Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<h1>📊 Photon – Live Stock Monitoring Dashboard</h1>
+
+<div class="graph">
+  <h2>📈 Price Graph</h2>
+  <canvas id="priceGraph"></canvas>
+</div>
+
+<div class="graph">
+  <h2>📊 Volume Graph</h2>
+  <canvas id="volumeGraph"></canvas>
+</div>
+
+<div class="graph">
+  <h2>📉 Volatility Graph</h2>
+  <canvas id="volatilityGraph"></canvas>
+</div>
+
+<div class="info">
+  <h2 id="stockName">AAPL</h2>
+  <p id="price"></p>
+  <p id="volume"></p>
+  <p id="volatility"></p>
+  <p id="high"></p>
+</div>
+
+<div class="buttons">
+  <button onclick="selectStock('AAPL')">AAPL</button>
+  <button onclick="selectStock('TSLA')">TSLA</button>
+  <button onclick="selectStock('AMZN')">AMZN</button>
+  <button onclick="selectStock('GOOGL')">GOOGL</button>
+  <button onclick="selectStock('MSFT')">MSFT</button>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
