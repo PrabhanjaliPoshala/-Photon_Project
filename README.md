@@ -148,11 +148,14 @@ https://drive.google.com/file/d/1eaet0GwwM8aSWfV6w_4XN05pGdnBvdAK/view?usp=shari
 
 
 
-## 👩‍💻 Developed By
+## 🏢 Developed During Internship
 
-**Prabhanjali Poshala**
-B.Tech – Computer Science Engineering (AI & ML)
-Institute of Aeronautical Engineering (IARE)
+This project was developed as part of an internship at **Infotact Solutions**, under the guidance and mentorship provided during the internship period.
+
+**Organization:** Infotact Solutions  
+**Project Type:** Internship Project  
+**Role:** Software Development Intern
+
 
 ---
 
