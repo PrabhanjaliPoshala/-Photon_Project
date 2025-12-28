@@ -154,7 +154,8 @@ This project was developed as part of an internship at **Infotact Solutions**, u
 
 **Organization:** Infotact Solutions  
 **Project Type:** Internship Project  
-**Role:** Software Development Intern
+**Role:** Python Development Intern
+
 
 
 ---
